@@ -26,8 +26,8 @@
     - [x] A transaction for the fee for the bank
   - [x] add a getter to calculate the `amount`
   - [x] add a getter to retrieve all `transactions` that are related to the account
-- [ ] specialize `Account` class into a `BusinessAccount`
-  - [ ] override the `send` function to respect different transaction fees for businesses
+- [x] specialize `Account` class into a `BusinessAccount`
+  - [x] override the `send` function to respect different transaction fees for businesses
 
 # Help
 
