@@ -6,9 +6,9 @@
 
 # Tasks
 
-- [ ] write an `Account` class
-  - [ ] The class should hold a reference to the `ledger`
-  - [ ] It should also have a `name` to identify the account
+- [x] write an `Account` class
+  - [x] The class should hold a reference to the `ledger`
+  - [x] It should also have a `name` to identify the account
 - [ ] implement a `Transaction` class
   - [ ] A transaction consists of an optional `sender` (Type: Account)
   - [ ] `receiver` (Type: Account)
