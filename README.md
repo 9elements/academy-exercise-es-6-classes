@@ -9,11 +9,11 @@
 - [x] write an `Account` class
   - [x] The class should hold a reference to the `ledger`
   - [x] It should also have a `name` to identify the account
-- [ ] implement a `Transaction` class
-  - [ ] A transaction consists of an optional `sender` (Type: Account)
-  - [ ] `receiver` (Type: Account)
-  - [ ] `amount` (Type: Number)
-  - [ ] `reference` (Type: String)
+- [x] implement a `Transaction` class
+  - [x] A transaction consists of an optional `sender` (Type: Account)
+  - [x] `receiver` (Type: Account)
+  - [x] `amount` (Type: Number)
+  - [x] `reference` (Type: String)
 - [ ] implement a `Ledger` class that keeps all transactions
   - [ ] It should keep an array of `transactions`
   - [ ] Have a member variable `bankAccount` the keeps a reference for the bank account
