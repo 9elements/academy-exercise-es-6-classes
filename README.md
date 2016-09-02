@@ -20,12 +20,12 @@
   - [x] Implement a function `addTransaction(transaction)`
   - [x] Implement a function `calculateAmountForAccount(account)` using `reduce`
   - [x] Implement a function `findTransactionsForAccount(account)` using `filter`
-- [ ] Add convenience functions to `Account`
-  - [ ] add a `send` function that generates two transactions
-    - [ ] The actual transaction
-    - [ ] A transaction for the fee for the bank
-  - [ ] add a getter to calculate the `amount`
-  - [ ] add a getter to retrieve all `transactions` that are related to the account
+- [x] Add convenience functions to `Account`
+  - [x] add a `send` function that generates two transactions
+    - [x] The actual transaction
+    - [x] A transaction for the fee for the bank
+  - [x] add a getter to calculate the `amount`
+  - [x] add a getter to retrieve all `transactions` that are related to the account
 - [ ] specialize `Account` class into a `BusinessAccount`
   - [ ] override the `send` function to respect different transaction fees for businesses
 
