@@ -17,8 +17,8 @@
 - [x] implement a `Ledger` class that keeps all transactions
   - [x] It should keep an array of `transactions`
   - [x] Have a member variable `bankAccount` the keeps a reference for the bank account
-  - [ ] Implement a function `addTransaction(transaction)`
-  - [ ] Implement a function `calculateAmountForAccount(account)` using `reduce`
+  - [x] Implement a function `addTransaction(transaction)`
+  - [x] Implement a function `calculateAmountForAccount(account)` using `reduce`
   - [ ] Implement a function `findTransactionsForAccount(account)` using `filter`
 - [ ] Add convenience functions to `Account`
   - [ ] add a `send` function that generates two transactions
