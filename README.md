@@ -19,7 +19,7 @@
   - [x] Have a member variable `bankAccount` the keeps a reference for the bank account
   - [x] Implement a function `addTransaction(transaction)`
   - [x] Implement a function `calculateAmountForAccount(account)` using `reduce`
-  - [ ] Implement a function `findTransactionsForAccount(account)` using `filter`
+  - [x] Implement a function `findTransactionsForAccount(account)` using `filter`
 - [ ] Add convenience functions to `Account`
   - [ ] add a `send` function that generates two transactions
     - [ ] The actual transaction

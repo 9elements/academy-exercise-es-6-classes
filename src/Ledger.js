@@ -18,4 +18,14 @@ export default class Ledger {
       return amount;
     }, 0);
   }
+
+  findTransactionsForAccount(account) {
+    return this.transactions.filter( transaction => {
+      if(transaction.sender == account || transaction.receiver == account) {
+        return true;
+      } else {
+        return false;
+      }
+    });
+  }
 }
