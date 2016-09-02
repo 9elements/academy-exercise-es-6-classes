@@ -30,7 +30,7 @@
 
 # Help
 
-You can see the tests in `integration-test`. Try to run write the classes so they are satisfying the tests.
+You can see the tests in `integration-test`. Try to run write the classes so they are satisfying the tests. You can also follow the commits in the `solution` branch to see the solution.
 
 # Commands
 
