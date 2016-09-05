@@ -16,6 +16,7 @@
   - [ ] `reference` (Type: String)
 - [ ] implement a `Ledger` class that keeps all transactions
   - [ ] It should keep an array of `transactions`
+  - [ ] Have a member variable `bankAccount` the keeps a reference for the bank account
   - [ ] Implement a function `addTransaction(transaction)`
   - [ ] Implement a function `calculateAmountForAccount(account)` using `reduce`
   - [ ] Implement a function `findTransactionsForAccount(account)` using `filter`
