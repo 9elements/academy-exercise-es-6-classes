@@ -75,7 +75,7 @@
     "font-awesome-webpack": "0.0.4",
     "history": "^3.0.0",
     "jasmine-core": "^2.4.1",
-    "jquery": "^3.0.0",
+    "jquery": "^3.5.0",
     "karma": "^1.0.0",
     "karma-babel-preprocessor": "^6.0.1",
     "karma-chrome-launcher": "^1.0.1",
