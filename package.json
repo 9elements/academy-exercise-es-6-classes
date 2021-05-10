@@ -89,7 +89,7 @@
     "karma-webpack": "^1.7.0",
     "less": "^2.5.3",
     "less-loader": "^2.2.2",
-    "lodash": "^4.7.0",
+    "lodash": "^4.17.21",
     "node-libs-browser": "^1.0.0",
     "node-sass": "^4.1.0",
     "phantomjs-function-bind-polyfill": "^1.0.0",
